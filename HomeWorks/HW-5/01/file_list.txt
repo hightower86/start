@@ -1,0 +1,16 @@
+db/migrate/20180617212808_create_clients.rb\
+app/models/client.rb\
+app/controllers/clients_controller.rb\
+app/views/clients\
+app/views/clients/index.html.erb\
+app/views/clients/edit.html.erb\
+app/views/clients/show.html.erb\
+app/views/clients/new.html.erb\
+app/views/clients/_form.html.erb\
+app/helpers/clients_helper.rb\
+app/views/clients/index.json.jbuilder\
+app/views/clients/show.json.jbuilder\
+app/views/clients/_client.json.jbuilder\
+app/assets/javascripts/clients.coffee\
+app/assets/stylesheets/clients.scss\
+app/assets/stylesheets/scaffolds.scss}
